@@ -1,5 +1,7 @@
 # 🚀 Simple File Backup System with AWS Lambda & S3
 
+![Project Thumbnail](https://github.com/PavanKumarKothuri/FileBackup-AWS-S3-Lambda/FileBackupThumbnail.webp)
+
 ## 🗂️ Automate Your Backups Like a Pro!
 
 This project demonstrates how to automate file backups between S3 buckets using AWS Lambda. It's a simple, cost-effective solution for ensuring your data is always safe and secure. 💡 Whether you're a freelancer looking to impress clients or a business needing reliable backups, this project is your gateway to effortless automation!
